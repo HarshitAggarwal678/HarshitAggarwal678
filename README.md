@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/3Ayf.mp4)](https://Harshit Aggarwal.io)
+[![MasterHead](https://i.gifer.com/3Ayf.mp4)]
 <h1 align="center">Hi 👋, I'm Harshit Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 (img align="right" alt="Coding" width="400" src=https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif")
